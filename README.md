@@ -87,7 +87,7 @@ change an element's position on the page.
 Let's start by moving the element up:
 
 ```javascript
-dodger.style.bottom = "100px";
+  dodger.style.bottom = "100px";
 ```
 
 ![up 100px](https://curriculum-content.s3.amazonaws.com/skills-based-js/pink_dodger_bottom_100.png)
